@@ -38,7 +38,7 @@
 
 10. `npm run build-spa`
 
-11. Replace all the following from `dist` folder
+11. Replace all beginning `/` from `dist` folder
 *    `"/nuxtfiles/"` to `"nuxtfiles/"`
 *    `"/assets/"` to `"nuxtfiles/"` 
 *    `"href="/"` to `"href=""`
